@@ -1,25 +1,26 @@
-Aplicacion CRUD de Productos
+Aplicación CRUD de Productos
 Framework CodeIgniter
+Sistema Operativo : Windows
 
-requerimientos: instalar Xampp
+Requerimientos: instalar Xampp
 
-prender Xampp
+Encender Xampp
 
-descargar zip del link:
+Descargar zip del link:
 https://github.com/johnlopez/tarea-ayudantia-lopez-martinez
 
-descomprimir Zip en:
-(la carpeta crud debe ser creada)
+Descomprimir Zip en:
+(La carpeta crud debe ser creada)
 C:\xampp\htdocs\crud\
 
-crear base de datos en php my admin
+Crear base de datos en php my admin
 http://localhost/phpmyadmin/#PMAURL-1:server_databases.php?db=&table=&server=1&target=&token=e221c484fb303a965021f037e49c4ec7
 
-nueva base de datos : crud_db
-importa archivo crud_db.sql
+Nueva base de datos: crud_db
+Importa archivo crud_db.sql
 
-previamente guardado en C:\xampp\htdocs\crud\
+Previamente guardado en C:\xampp\htdocs\crud\
 
-abrir algun navegador y escribir la direccion
+Abrir algún navegador y escribir la dirección
 
 http://localhost/crud/index.php/productos/
