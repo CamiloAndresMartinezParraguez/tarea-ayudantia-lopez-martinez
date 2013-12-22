@@ -1,0 +1,4 @@
+Aplicacion CRUD de Productos
+
+Requerimientos:
+tener instalado Xampp
