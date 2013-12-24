@@ -22,16 +22,17 @@ Descomprimir Zip en:
 C:\xampp\htdocs\crud\
 
 Crear base de datos en php my admin
-http://localhost/phpmyadmin
-Link como crear una base de datos en php my admin:
+http://localhost/phpmyadmin 
+y Link como crear una base de datos en php my admin:
 http://www.youtube.com/watch?v=5tCampNtrho
 
-Nueva base de datos: crud_db
+Nueva base de datos: crud_db y 
 Importa archivo crud_db.sql
 
 Previamente guardado en C:\xampp\htdocs\crud\
+
 En otras plataformas consultar los siguientes LINKS (Linux y Mac) OSX:
-http://www.forosdelweb.com/f145/xamp-instale-no-como-guardar-documentos-htdocs-864644/
+http://www.forosdelweb.com/f145/xamp-instale-no-como-guardar-documentos-htdocs-864644/ y 
 http://stackoverflow.com/questions/8060533/how-to-change-xampp-htdocs-directory-in-osx
 
 Abrir algún navegador y escribir la dirección (Mozilla, Safari, Chrome, etc.)
